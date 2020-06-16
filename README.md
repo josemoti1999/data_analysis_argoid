@@ -12,7 +12,7 @@ Most of the details are clearly mentioned in the notebook. But I will give a sho
 
 **Assignment2**
 1. Predicting best 5 items bought together.
-2. The answer_dict pickle file is also given here.(compressed version)
+2. The answer_dict file could not be given here due to its large size. See the link below 'answer_dict.pickle'. Was not able to save as JSON version.
 
 Below are the links to all my intermediate output files. All these can be generated using just the two notebooks.
 
