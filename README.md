@@ -3,6 +3,7 @@ Data analysis on sales tax dataset.
 https://drive.google.com/file/d/1Ce_ta6Ri9o3mi8g5_lr6oEe9uBFNt74Z/view?usp=sharing - Original dataset
 
 Most of the details are clearly mentioned in the notebook. But I will give a short summary of what was done here.
+
 **Assignment1**
 1. Cleaning data
 2. Gaining insights based on country, transactionid, userid, month, year, day, time as well as aplications.
